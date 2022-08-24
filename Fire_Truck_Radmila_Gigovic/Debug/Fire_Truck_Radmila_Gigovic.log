@@ -1,0 +1,5 @@
+﻿  Radmila_Gigovic_660_2017.cpp
+C:\Users\giga_\source\repos\grafika_1\Fire_Truck_Radmila_Gigovic\Fire_Truck_Radmila_Gigovic\Potrebni fajlovi\Radmila_Gigovic_660_2017.cpp(596,26): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\giga_\source\repos\grafika_1\Fire_Truck_Radmila_Gigovic\Fire_Truck_Radmila_Gigovic\Potrebni fajlovi\Radmila_Gigovic_660_2017.cpp(663,26): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\giga_\source\repos\grafika_1\Fire_Truck_Radmila_Gigovic\Fire_Truck_Radmila_Gigovic\Potrebni fajlovi\Radmila_Gigovic_660_2017.cpp(707,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Fire_Truck_Radmila_Gigovic.vcxproj -> C:\Users\giga_\source\repos\grafika_1\Fire_Truck_Radmila_Gigovic\Debug\Fire_Truck_Radmila_Gigovic.exe
